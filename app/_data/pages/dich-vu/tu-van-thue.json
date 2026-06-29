@@ -38,6 +38,18 @@
       ]
     },
     {
+      "type": "deliverables",
+      "eyebrow": "Kết quả bàn giao",
+      "title": "Anh/Chị nhận được gì",
+      "items": [
+        "Báo cáo rà soát tuân thủ thuế & bản đồ rủi ro thuế",
+        "Checklist kiểm soát nội bộ thuế & tài liệu training kế toán",
+        "Đề xuất tối ưu cấu trúc thuế hợp pháp theo ngành/vùng ưu đãi",
+        "Hồ sơ rà soát rủi ro chuyển giá theo Thông tư 132/2020",
+        "Kế hoạch thuế dài hạn 3-5 năm gắn với chiến lược kinh doanh"
+      ]
+    },
+    {
       "type": "cta",
       "title": "Phát hiện rủi ro thuế trước khi nó thành chi phí",
       "subtitle": "Đặt lịch để WTP Advisory rà soát nhanh hồ sơ thuế của doanh nghiệp Anh/Chị.",

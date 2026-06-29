@@ -38,6 +38,18 @@
       ]
     },
     {
+      "type": "deliverables",
+      "eyebrow": "Kết quả bàn giao",
+      "title": "Anh/Chị nhận được gì",
+      "items": [
+        "Cơ cấu tổ chức & sơ đồ tổ chức (Org Chart) cập nhật",
+        "Bộ JD chuẩn theo từng vị trí, liên kết KPI cá nhân",
+        "Quy trình đánh giá hiệu suất định kỳ (review template)",
+        "Individual Development Plan (IDP) cho quản lý cấp trung",
+        "Bản đồ talent pool & kế hoạch kế thừa cho vị trí then chốt"
+      ]
+    },
+    {
       "type": "cta",
       "title": "Để doanh nghiệp vận hành không phụ thuộc cá nhân",
       "subtitle": "Đặt lịch để WTP Advisory đánh giá cơ cấu tổ chức hiện tại của Anh/Chị.",

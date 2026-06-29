@@ -38,6 +38,18 @@
       ]
     },
     {
+      "type": "deliverables",
+      "eyebrow": "Kết quả bàn giao",
+      "title": "Anh/Chị nhận được gì",
+      "items": [
+        "Business Model Canvas cập nhật & chiến lược định giá",
+        "Bảng Sales KPI & hệ thống tracking, báo cáo định kỳ",
+        "Sales funnel được tối ưu kèm phân tích điểm rò rỉ (drop-off)",
+        "Bản đồ hành trình khách hàng (Customer Journey Map)",
+        "Khung triển khai AI Marketing & kế hoạch đo lường ROI"
+      ]
+    },
+    {
       "type": "cta",
       "title": "Tăng tỷ lệ chuyển đổi mà không tăng chi phí marketing",
       "subtitle": "Đặt lịch để WTP Advisory phân tích phễu bán hàng của doanh nghiệp Anh/Chị.",

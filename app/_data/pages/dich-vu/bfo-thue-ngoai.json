@@ -38,6 +38,18 @@
       ]
     },
     {
+      "type": "deliverables",
+      "eyebrow": "Kết quả bàn giao",
+      "title": "Anh/Chị nhận được gì",
+      "items": [
+        "Bộ tiêu chí đánh giá & danh sách đối tác BFO đề xuất theo từng mảng",
+        "SLA & KPI giám sát chất lượng dịch vụ thuê ngoài",
+        "Cơ chế báo cáo hợp nhất qua một đầu mối duy nhất",
+        "Lộ trình triển khai BFO theo từng giai đoạn (3-6 tháng/mảng)",
+        "Báo cáo audit định kỳ chất lượng đối tác thuê ngoài"
+      ]
+    },
+    {
       "type": "cta",
       "title": "Kiểm soát toàn bộ dịch vụ thuê ngoài qua một đầu mối",
       "subtitle": "Đặt lịch để WTP Advisory đánh giá danh mục dịch vụ thuê ngoài hiện tại của Anh/Chị.",

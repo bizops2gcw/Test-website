@@ -38,6 +38,18 @@
       ]
     },
     {
+      "type": "deliverables",
+      "eyebrow": "Kết quả bàn giao",
+      "title": "Anh/Chị nhận được gì",
+      "items": [
+        "Bản đồ quy trình as-is/to-be cho các quy trình cốt lõi",
+        "Bộ SOP chuẩn hóa kèm biểu mẫu & tài liệu đào tạo",
+        "Ma trận trách nhiệm RACI cho quy trình liên phòng ban",
+        "Bảng KPI vận hành (dashboard) kết nối dữ liệu thực tế",
+        "Khuyến nghị lựa chọn ERP/CRM phù hợp & kế hoạch triển khai"
+      ]
+    },
+    {
       "type": "cta",
       "title": "Vận hành trơn tru để sẵn sàng nhân rộng",
       "subtitle": "Đặt lịch để WTP Advisory rà soát quy trình vận hành của doanh nghiệp Anh/Chị.",
