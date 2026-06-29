@@ -1,0 +1,48 @@
+{
+  "title": "Tư vấn Quản trị Nhân sự",
+  "metaDescription": "Thiết kế cơ cấu tổ chức, JD & KPI, đánh giá hiệu suất, phát triển lãnh đạo và kế hoạch kế thừa. WTP Advisory giúp doanh nghiệp giảm phụ thuộc cá nhân.",
+  "sections": [
+    {
+      "type": "hero",
+      "variant": "page",
+      "eyebrow": "Nhân sự",
+      "headline": "Tổ chức rõ vai trò — doanh nghiệp không phụ thuộc một vài người",
+      "subheadline": "WTP Advisory thiết kế cơ cấu tổ chức phù hợp giai đoạn phát triển, chuẩn hóa JD & KPI, xây hệ thống đánh giá hiệu suất và phát triển đội ngũ kế thừa.",
+      "primaryCta": { "label": "Đặt lịch tư vấn", "href": "/lien-he" },
+      "secondaryCta": { "label": "Xem tất cả dịch vụ", "href": "/dich-vu" }
+    },
+    {
+      "type": "feature-list",
+      "eyebrow": "Phạm vi công việc",
+      "title": "Xây nền tảng nhân sự vững chắc",
+      "items": [
+        { "title": "Cơ cấu tổ chức", "icon": "Network", "description": "Thiết kế cơ cấu phù hợp giai đoạn, phân tầng quản lý và xác định span of control hợp lý." },
+        { "title": "Sơ đồ tổ chức (Org Chart)", "icon": "Users", "description": "Vẽ và cập nhật org chart, định nghĩa reporting line, tích hợp vào tài liệu nội bộ và onboarding." },
+        { "title": "Mô tả công việc & KPI", "icon": "ClipboardCheck", "description": "Soạn JD chuẩn theo vị trí, xây KPI theo SMART/OKR, liên kết KPI cá nhân với mục tiêu doanh nghiệp." },
+        { "title": "Đánh giá hiệu suất", "icon": "Gauge", "description": "Thiết kế quy trình review định kỳ (360°, calibration), rating scale và kết nối với compensation." },
+        { "title": "Phát triển lãnh đạo", "icon": "Target", "description": "Chương trình coaching & mentoring cho middle management, thiết kế Individual Development Plan (IDP)." },
+        { "title": "Kế hoạch kế thừa", "icon": "ShieldCheck", "description": "Xác định vị trí key/critical, đánh giá talent pool và xây lộ trình phát triển nhân sự kế thừa." }
+      ]
+    },
+    {
+      "type": "package-matrix",
+      "eyebrow": "Theo gói dịch vụ",
+      "title": "Hạng mục có trong từng gói",
+      "rows": [
+        { "feature": "Cơ cấu tổ chức", "safe": true, "growth": true, "scale": true },
+        { "feature": "Sơ đồ tổ chức (Org Chart)", "safe": true, "growth": true, "scale": true },
+        { "feature": "Mô tả công việc & KPI (JD & KPI)", "safe": true, "growth": true, "scale": true },
+        { "feature": "Đánh giá hiệu suất", "safe": false, "growth": true, "scale": true },
+        { "feature": "Phát triển lãnh đạo", "safe": false, "growth": true, "scale": true },
+        { "feature": "Kế hoạch kế thừa (Succession)", "safe": false, "growth": false, "scale": true }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Để doanh nghiệp vận hành không phụ thuộc cá nhân",
+      "subtitle": "Đặt lịch để WTP Advisory đánh giá cơ cấu tổ chức hiện tại của Anh/Chị.",
+      "primaryCta": { "label": "Đặt lịch tư vấn miễn phí", "href": "/lien-he" },
+      "secondaryCta": { "label": "Xem bảng giá", "href": "/bang-gia" }
+    }
+  ]
+}

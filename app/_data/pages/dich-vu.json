@@ -1,0 +1,46 @@
+{
+  "title": "Dịch vụ Tư vấn Doanh nghiệp",
+  "metaDescription": "Khám phá 8 nhóm dịch vụ tư vấn của WTP Advisory: chiến lược & điều hành, tài chính, thuế, nhân sự, vận hành, marketing, M&A và quản trị thuê ngoài (BFO) cho SME.",
+  "sections": [
+    {
+      "type": "hero",
+      "variant": "page",
+      "eyebrow": "Dịch vụ",
+      "headline": "8 nhóm dịch vụ tư vấn cho doanh nghiệp SME",
+      "subheadline": "Một đối tác duy nhất cho toàn bộ hành trình quản trị — từ chuẩn hóa nền tảng đến sẵn sàng gọi vốn và M&A. Mỗi dịch vụ đều gắn với deliverable cụ thể và KPI đo lường được.",
+      "primaryCta": { "label": "Đặt lịch tư vấn", "href": "/lien-he" },
+      "secondaryCta": { "label": "Xem bảng giá", "href": "/bang-gia" }
+    },
+    {
+      "type": "services-grid",
+      "eyebrow": "Danh mục dịch vụ",
+      "title": "Chọn lĩnh vực doanh nghiệp cần đồng hành",
+      "intro": "Nhấp vào từng nhóm để xem chi tiết phạm vi công việc, kết quả bàn giao và gói dịch vụ phù hợp."
+    },
+    {
+      "type": "process",
+      "eyebrow": "Phương pháp",
+      "title": "Tư vấn thực chiến — không lý thuyết suông",
+      "intro": "WTP Advisory làm việc trực tiếp với C-Level theo một quy trình chuẩn, minh bạch và đo lường được.",
+      "steps": [
+        { "title": "Chẩn đoán", "description": "Đánh giá toàn diện sức khỏe doanh nghiệp: tài chính, vận hành, nhân sự, thị trường." },
+        { "title": "Ưu tiên hóa", "description": "Xác định điểm nghẽn gốc rễ và việc cần làm trước để tạo tác động lớn nhất." },
+        { "title": "Triển khai", "description": "Đồng hành thực thi, điều phối phòng ban, theo dõi KPI theo tháng/quý." },
+        { "title": "Đo lường & tối ưu", "description": "Review định kỳ, điều chỉnh dựa trên dữ liệu thực tế, báo cáo cho CEO." }
+      ]
+    },
+    {
+      "type": "packages",
+      "eyebrow": "Gói dịch vụ",
+      "title": "Ba gói linh hoạt theo giai đoạn",
+      "intro": "Mọi nhóm dịch vụ đều được tổ chức trong ba gói Safe Start, Growth Engine và Scale Up.",
+      "note": "Xem chi tiết khung giá theo ngành tại trang Bảng giá."
+    },
+    {
+      "type": "cta",
+      "title": "Chưa rõ doanh nghiệp cần dịch vụ nào?",
+      "subtitle": "Bắt đầu bằng buổi chẩn đoán miễn phí — WTP Advisory sẽ chỉ ra đúng việc cần ưu tiên.",
+      "primaryCta": { "label": "Đặt lịch chẩn đoán miễn phí", "href": "/lien-he" }
+    }
+  ]
+}

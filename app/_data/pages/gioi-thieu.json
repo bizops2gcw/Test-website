@@ -1,0 +1,63 @@
+{
+  "title": "Giới thiệu WTP Advisory",
+  "metaDescription": "WTP Advisory — đơn vị tư vấn chiến lược & quản trị doanh nghiệp SME tại Việt Nam, thành viên WTP Group. Tìm hiểu định vị, giá trị cốt lõi và đội ngũ chuyên gia.",
+  "sections": [
+    {
+      "type": "hero",
+      "variant": "page",
+      "eyebrow": "Về chúng tôi",
+      "headline": "Đối tác đồng hành cùng CEO — không chỉ là nhà tư vấn",
+      "subheadline": "WTP Advisory là đơn vị tư vấn chiến lược & quản trị doanh nghiệp cho SME tại Việt Nam, thành viên của WTP Group. Chúng tôi làm việc trực tiếp với C-Level bằng tư duy thực chiến và cam kết kết quả.",
+      "primaryCta": { "label": "Làm việc với chúng tôi", "href": "/lien-he" }
+    },
+    {
+      "type": "rich-text",
+      "eyebrow": "Định vị",
+      "title": "Tư vấn đúng — Vận hành chuẩn — Tăng trưởng bền vững",
+      "body": [
+        "WTP Advisory ra đời để giải quyết một thực tế: phần lớn doanh nghiệp SME Việt Nam chững lại không phải vì thiếu cơ hội, mà vì nền tảng quản trị chưa theo kịp tốc độ tăng trưởng. Chúng tôi đứng về phía CEO, biến chiến lược thành hệ thống vận hành chạy được — chứ không dừng ở những bản kế hoạch đẹp trên giấy.",
+        "Khác với tư vấn truyền thống chỉ đưa ra khuyến nghị rồi rời đi, WTP Advisory đồng hành thực thi: trực tiếp điều phối phòng ban, theo dõi KPI và chịu trách nhiệm cùng doanh nghiệp với kết quả. Mỗi cam kết đều đi kèm số liệu; mỗi rủi ro đều được nói thẳng.",
+        "Là thành viên của WTP Group, chúng tôi mang đến cho khách hàng sự hậu thuẫn của một hệ sinh thái dịch vụ tài chính – kế toán – công nghệ, giúp doanh nghiệp tiếp cận nguồn lực toàn diện qua một đầu mối duy nhất."
+      ]
+    },
+    {
+      "type": "feature-list",
+      "eyebrow": "Giá trị cốt lõi",
+      "title": "Bốn nguyên tắc làm việc của WTP Advisory",
+      "columns": 2,
+      "items": [
+        { "title": "Chính trực", "icon": "ShieldCheck", "description": "Nói thẳng rủi ro, không hứa quá. Mọi khuyến nghị đều minh bạch và đặt lợi ích doanh nghiệp lên trước." },
+        { "title": "Thực chiến", "icon": "Target", "description": "Giải pháp áp dụng được ngay, gắn với bối cảnh thực tế của SME Việt Nam — không lý thuyết suông." },
+        { "title": "Cam kết kết quả", "icon": "CheckCircle2", "description": "Mỗi cam kết kèm KPI đo lường. Chúng tôi chịu trách nhiệm cùng doanh nghiệp với kết quả triển khai." },
+        { "title": "Đồng hành dài hạn", "icon": "Handshake", "description": "Không làm xong rời đi. WTP đồng hành qua từng giai đoạn phát triển của doanh nghiệp." }
+      ]
+    },
+    {
+      "type": "rich-text",
+      "eyebrow": "Đội ngũ",
+      "title": "Founder & Lead Consultant — Nguyễn Thanh Hà",
+      "body": [
+        "WTP Advisory được dẫn dắt bởi ông Nguyễn Thanh Hà — Founder & Lead Consultant, chuyên gia tư vấn chiến lược và quản trị doanh nghiệp SME với chuyên môn sâu trải dài Tài chính – Kế toán – Thuế, Quản trị Nhân sự, Sales & Marketing, Quản trị Vận hành và M&A.",
+        "Với kinh nghiệm thực chiến cùng nhiều doanh nghiệp SME tại Việt Nam, đội ngũ WTP Advisory thấu hiểu bài toán đặc thù của doanh nghiệp Việt: nguồn lực hữu hạn, tăng trưởng nhanh nhưng nền tảng quản trị mỏng. Đó là lý do mọi giải pháp của chúng tôi đều ưu tiên tính khả thi và tác động thực tế."
+      ]
+    },
+    {
+      "type": "stats",
+      "variant": "dark",
+      "title": "WTP Advisory trong những con số",
+      "items": [
+        { "value": "8", "label": "Nhóm dịch vụ chuyên sâu" },
+        { "value": "5+", "label": "Lĩnh vực chuyên môn" },
+        { "value": "90", "label": "Ngày tạo kết quả đầu tiên" },
+        { "value": "24h", "label": "Phản hồi yêu cầu tư vấn" }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Sẵn sàng đưa doanh nghiệp lên một tầm mới?",
+      "subtitle": "Đặt lịch buổi tư vấn chẩn đoán miễn phí với chuyên gia WTP Advisory.",
+      "primaryCta": { "label": "Đặt lịch tư vấn", "href": "/lien-he" },
+      "secondaryCta": { "label": "Xem các dịch vụ", "href": "/dich-vu" }
+    }
+  ]
+}

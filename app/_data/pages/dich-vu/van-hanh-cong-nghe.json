@@ -1,0 +1,48 @@
+{
+  "title": "Tư vấn Vận hành & Công nghệ",
+  "metaDescription": "Chuẩn hóa quy trình, xây SOP, ma trận RACI, KPI vận hành và tư vấn ERP/CRM, tự động hóa. WTP Advisory giúp doanh nghiệp vận hành nhất quán, giảm lãng phí và số hóa hiệu quả.",
+  "sections": [
+    {
+      "type": "hero",
+      "variant": "page",
+      "eyebrow": "Vận hành & Công nghệ",
+      "headline": "Vận hành nhất quán — không phụ thuộc trí nhớ con người",
+      "subheadline": "WTP Advisory chuẩn hóa quy trình cốt lõi thành SOP, làm rõ trách nhiệm bằng RACI, thiết lập KPI vận hành và tư vấn số hóa ERP/CRM phù hợp quy mô.",
+      "primaryCta": { "label": "Đặt lịch tư vấn", "href": "/lien-he" },
+      "secondaryCta": { "label": "Xem tất cả dịch vụ", "href": "/dich-vu" }
+    },
+    {
+      "type": "feature-list",
+      "eyebrow": "Phạm vi công việc",
+      "title": "Chuẩn hóa & số hóa vận hành",
+      "items": [
+        { "title": "Rà soát quy trình", "icon": "FileSearch", "description": "Vẽ as-is process map, xác định điểm yếu, nút thắt và đề xuất to-be process cải tiến, giảm lãng phí." },
+        { "title": "Quy trình chuẩn (SOP)", "icon": "ClipboardCheck", "description": "Biên soạn SOP cho quy trình cốt lõi, chuẩn hóa biểu mẫu, tổ chức đào tạo và kiểm tra hiểu biết." },
+        { "title": "Ma trận trách nhiệm (RACI)", "icon": "Network", "description": "Xây RACI cho quy trình liên phòng ban, giải quyết xung đột trách nhiệm và tích hợp vào SOP." },
+        { "title": "Bảng KPI vận hành", "icon": "Gauge", "description": "Thiết kế KPI dashboard vận hành (OEE, cycle time, defect rate...), kết nối dữ liệu thực tế." },
+        { "title": "ERP / CRM / Tự động hóa", "icon": "Settings", "description": "Tư vấn lựa chọn giải pháp phù hợp quy mô, giám sát triển khai, đào tạo và change management." },
+        { "title": "Văn phòng chuyển đổi", "icon": "Workflow", "description": "Thiết lập Transformation Office, quản lý danh mục sáng kiến và đo lường ROI chuyển đổi." }
+      ]
+    },
+    {
+      "type": "package-matrix",
+      "eyebrow": "Theo gói dịch vụ",
+      "title": "Hạng mục có trong từng gói",
+      "rows": [
+        { "feature": "Rà soát quy trình (Process Mapping)", "safe": false, "growth": true, "scale": true },
+        { "feature": "Quy trình chuẩn (SOP)", "safe": false, "growth": true, "scale": true },
+        { "feature": "Ma trận trách nhiệm (RACI)", "safe": false, "growth": true, "scale": true },
+        { "feature": "Bảng KPI vận hành", "safe": false, "growth": true, "scale": true },
+        { "feature": "ERP / CRM / Automation", "safe": false, "growth": true, "scale": true },
+        { "feature": "Văn phòng chuyển đổi (Transformation Office)", "safe": false, "growth": false, "scale": true }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Vận hành trơn tru để sẵn sàng nhân rộng",
+      "subtitle": "Đặt lịch để WTP Advisory rà soát quy trình vận hành của doanh nghiệp Anh/Chị.",
+      "primaryCta": { "label": "Đặt lịch tư vấn miễn phí", "href": "/lien-he" },
+      "secondaryCta": { "label": "Xem bảng giá", "href": "/bang-gia" }
+    }
+  ]
+}

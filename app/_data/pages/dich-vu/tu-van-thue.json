@@ -1,0 +1,48 @@
+{
+  "title": "Tư vấn Rủi ro Thuế",
+  "metaDescription": "Rà soát tuân thủ thuế, tối ưu cấu trúc thuế hợp pháp, kiểm soát rủi ro chuyển giá và tư vấn thuế M&A. WTP Advisory giúp phát hiện rủi ro thuế sớm, tránh phạt.",
+  "sections": [
+    {
+      "type": "hero",
+      "variant": "page",
+      "eyebrow": "Tư vấn Rủi ro Thuế",
+      "headline": "Yên tâm vận hành — không bất ngờ khi thanh tra thuế",
+      "subheadline": "WTP Advisory giúp doanh nghiệp phát hiện rủi ro thuế sớm, xây hệ thống phòng ngừa chủ động và tối ưu gánh nặng thuế một cách hợp pháp — bảo vệ dòng tiền sau thuế.",
+      "primaryCta": { "label": "Đặt lịch tư vấn", "href": "/lien-he" },
+      "secondaryCta": { "label": "Xem tất cả dịch vụ", "href": "/dich-vu" }
+    },
+    {
+      "type": "feature-list",
+      "eyebrow": "Phạm vi công việc",
+      "title": "Kiểm soát rủi ro thuế toàn diện",
+      "items": [
+        { "title": "Rà soát tuân thủ thuế", "icon": "FileSearch", "description": "Rà soát hồ sơ khai thuế (GTGT, TNDN, TNCN, TTĐB...), đối chiếu số liệu kế toán – thuế, phát hiện sai lệch." },
+        { "title": "Nhận diện rủi ro & kiểm soát nội bộ", "icon": "ShieldCheck", "description": "Lập bản đồ rủi ro thuế, thiết kế checklist kiểm soát nội bộ và training cho bộ phận kế toán." },
+        { "title": "Tối ưu cấu trúc thuế", "icon": "Scale", "description": "Phân tích cơ cấu pháp nhân và giao dịch, tư vấn tái cơ cấu để tối ưu thuế suất và ưu đãi hợp pháp." },
+        { "title": "Kiểm tra rủi ro chuyển giá (TP)", "icon": "Network", "description": "Rà soát giao dịch liên kết, hỗ trợ lập hồ sơ chuyển giá theo Thông tư 132/2020, tránh bị ấn định thuế." },
+        { "title": "Lập kế hoạch thuế dài hạn", "icon": "Compass", "description": "Lên kế hoạch thuế 3–5 năm phù hợp chiến lược kinh doanh, tư vấn ưu đãi thuế theo ngành/vùng." },
+        { "title": "Tư vấn thuế M&A", "icon": "Handshake", "description": "Tư vấn cấu trúc giao dịch (share deal vs asset deal), phân tích thuế TNDN & chuyển nhượng vốn." }
+      ]
+    },
+    {
+      "type": "package-matrix",
+      "eyebrow": "Theo gói dịch vụ",
+      "title": "Hạng mục có trong từng gói",
+      "rows": [
+        { "feature": "Rà soát tuân thủ thuế", "safe": true, "growth": true, "scale": true },
+        { "feature": "Nhận diện rủi ro & kiểm soát nội bộ thuế", "safe": false, "growth": true, "scale": true },
+        { "feature": "Tối ưu cấu trúc thuế", "safe": false, "growth": true, "scale": true },
+        { "feature": "Kiểm tra rủi ro chuyển giá (TP Review)", "safe": false, "growth": true, "scale": true },
+        { "feature": "Lập kế hoạch thuế dài hạn", "safe": false, "growth": false, "scale": true },
+        { "feature": "Tư vấn thuế M&A", "safe": false, "growth": false, "scale": true }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Phát hiện rủi ro thuế trước khi nó thành chi phí",
+      "subtitle": "Đặt lịch để WTP Advisory rà soát nhanh hồ sơ thuế của doanh nghiệp Anh/Chị.",
+      "primaryCta": { "label": "Đặt lịch tư vấn miễn phí", "href": "/lien-he" },
+      "secondaryCta": { "label": "Xem bảng giá", "href": "/bang-gia" }
+    }
+  ]
+}

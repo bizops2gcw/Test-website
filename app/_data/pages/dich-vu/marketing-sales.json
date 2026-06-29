@@ -1,0 +1,48 @@
+{
+  "title": "Tư vấn Marketing & Bán hàng",
+  "metaDescription": "Thiết kế mô hình kinh doanh, tối ưu phễu bán hàng, hành trình khách hàng và AI Marketing. WTP Advisory giúp tăng tỷ lệ chuyển đổi và doanh thu cho SME.",
+  "sections": [
+    {
+      "type": "hero",
+      "variant": "page",
+      "eyebrow": "Marketing & Bán hàng",
+      "headline": "Tăng doanh thu bằng hệ thống — không phụ thuộc may rủi",
+      "subheadline": "WTP Advisory giúp doanh nghiệp định hình mô hình kinh doanh sinh lời, tối ưu phễu bán hàng, nâng cấp trải nghiệm khách hàng và ứng dụng AI Marketing ở quy mô lớn.",
+      "primaryCta": { "label": "Đặt lịch tư vấn", "href": "/lien-he" },
+      "secondaryCta": { "label": "Xem tất cả dịch vụ", "href": "/dich-vu" }
+    },
+    {
+      "type": "feature-list",
+      "eyebrow": "Phạm vi công việc",
+      "title": "Hệ thống tăng trưởng doanh thu",
+      "items": [
+        { "title": "Mô hình kinh doanh", "icon": "Compass", "description": "Phân tích và tái thiết kế business model (BMC), xác định USP, phân khúc mục tiêu và chiến lược định giá." },
+        { "title": "KPI bán hàng", "icon": "Gauge", "description": "Xây hệ thống Sales KPI (lead, conversion, ACV, churn...), thiết lập tracking và reporting định kỳ." },
+        { "title": "Phễu bán hàng", "icon": "TrendingUp", "description": "Thiết kế và tối ưu sales funnel từ lead → MQL → SQL → close, A/B test và phân tích drop-off." },
+        { "title": "Hành trình khách hàng", "icon": "Users", "description": "Mapping customer journey, xác định touchpoint cần cải thiện, tăng retention và referral, giảm churn." },
+        { "title": "Khung AI Marketing", "icon": "Rocket", "description": "Tư vấn lựa chọn và triển khai AI tools (content, targeting, automation, chatbot) và đo lường ROI." },
+        { "title": "Chương trình tăng trưởng doanh thu", "icon": "LineChart", "description": "Thiết kế chương trình toàn diện: upsell, cross-sell, thâm nhập thị trường mới và chiến lược partnership." }
+      ]
+    },
+    {
+      "type": "package-matrix",
+      "eyebrow": "Theo gói dịch vụ",
+      "title": "Hạng mục có trong từng gói",
+      "rows": [
+        { "feature": "Mô hình kinh doanh (BMC)", "safe": false, "growth": true, "scale": true },
+        { "feature": "KPI bán hàng (Sales KPI)", "safe": false, "growth": true, "scale": true },
+        { "feature": "Phễu bán hàng (Sales Funnel)", "safe": false, "growth": true, "scale": true },
+        { "feature": "Hành trình khách hàng (Customer Journey)", "safe": false, "growth": true, "scale": true },
+        { "feature": "Khung AI Marketing", "safe": false, "growth": true, "scale": true },
+        { "feature": "Chương trình tăng trưởng doanh thu", "safe": false, "growth": false, "scale": true }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Tăng tỷ lệ chuyển đổi mà không tăng chi phí marketing",
+      "subtitle": "Đặt lịch để WTP Advisory phân tích phễu bán hàng của doanh nghiệp Anh/Chị.",
+      "primaryCta": { "label": "Đặt lịch tư vấn miễn phí", "href": "/lien-he" },
+      "secondaryCta": { "label": "Xem bảng giá", "href": "/bang-gia" }
+    }
+  ]
+}

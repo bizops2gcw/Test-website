@@ -1,0 +1,48 @@
+{
+  "title": "Tư vấn BFO — Quản trị Dịch vụ Thuê ngoài",
+  "metaDescription": "Tư vấn dịch vụ thuê ngoài (BFO): kế toán–thuế, nhân sự, AI Marketing, ISO, ERP. WTP Advisory giúp CEO tập trung vào core business, kiểm soát qua một đầu mối.",
+  "sections": [
+    {
+      "type": "hero",
+      "variant": "page",
+      "eyebrow": "BFO — Quản trị Thuê ngoài",
+      "headline": "Tập trung vào core business — giao phần còn lại cho hệ sinh thái",
+      "subheadline": "WTP Advisory tư vấn lựa chọn và giám sát các dịch vụ thuê ngoài (Business Functions Outsourcing): kế toán–thuế, nhân sự, AI Marketing, ISO và ERP — giúp CEO tiết kiệm chi phí và kiểm soát qua một đầu mối duy nhất.",
+      "primaryCta": { "label": "Đặt lịch tư vấn", "href": "/lien-he" },
+      "secondaryCta": { "label": "Xem tất cả dịch vụ", "href": "/dich-vu" }
+    },
+    {
+      "type": "feature-list",
+      "eyebrow": "Phạm vi công việc",
+      "title": "Hệ sinh thái dịch vụ thuê ngoài tối ưu",
+      "items": [
+        { "title": "Kế toán – Thuế thuê ngoài (BPO)", "icon": "Briefcase", "description": "Tư vấn chọn đối tác BPO uy tín, xây SLA & KPI giám sát, audit định kỳ chất lượng dịch vụ kế toán–thuế." },
+        { "title": "Nhân sự thuê ngoài (HRO)", "icon": "Users", "description": "Tư vấn mô hình HRO phù hợp, thiết lập quy trình kiểm soát đối tác và đảm bảo tuân thủ luật lao động." },
+        { "title": "AI Marketing & Sales thuê ngoài", "icon": "Rocket", "description": "Tư vấn chọn giải pháp AI Marketing (content AI, ad automation, chatbot, CRM AI), quản lý triển khai và ROI." },
+        { "title": "Hệ thống quản lý chất lượng ISO", "icon": "ShieldCheck", "description": "Tư vấn bộ tiêu chuẩn ISO phù hợp (9001, 27001, 14001...), giám sát triển khai và duy trì chứng nhận." },
+        { "title": "Phần mềm ERP / mini ERP", "icon": "Settings", "description": "Tư vấn giải pháp ERP/mini ERP phù hợp ngân sách và quy mô (MISA, Base.vn, Odoo, SAP B1...)." },
+        { "title": "Tối ưu tổng thể hệ sinh thái BFO", "icon": "Network", "description": "Thiết kế mô hình BFO tích hợp, thiết lập governance và báo cáo hợp nhất, tối ưu danh mục nhà cung cấp." }
+      ]
+    },
+    {
+      "type": "package-matrix",
+      "eyebrow": "Theo gói dịch vụ",
+      "title": "Hạng mục có trong từng gói",
+      "rows": [
+        { "feature": "Kế toán – Thuế thuê ngoài (BPO)", "safe": true, "growth": true, "scale": true },
+        { "feature": "Nhân sự thuê ngoài (HRO)", "safe": true, "growth": true, "scale": true },
+        { "feature": "AI Marketing & Sales thuê ngoài", "safe": true, "growth": true, "scale": true },
+        { "feature": "Hệ thống quản lý chất lượng ISO", "safe": false, "growth": true, "scale": true },
+        { "feature": "Phần mềm ERP / mini ERP", "safe": false, "growth": true, "scale": true },
+        { "feature": "Tối ưu tổng thể hệ sinh thái BFO", "safe": false, "growth": false, "scale": true }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Kiểm soát toàn bộ dịch vụ thuê ngoài qua một đầu mối",
+      "subtitle": "Đặt lịch để WTP Advisory đánh giá danh mục dịch vụ thuê ngoài hiện tại của Anh/Chị.",
+      "primaryCta": { "label": "Đặt lịch tư vấn miễn phí", "href": "/lien-he" },
+      "secondaryCta": { "label": "Xem bảng giá", "href": "/bang-gia" }
+    }
+  ]
+}

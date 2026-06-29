@@ -1,0 +1,28 @@
+{
+  "title": "Liên hệ & Đặt lịch Tư vấn",
+  "metaDescription": "Đặt lịch tư vấn chẩn đoán miễn phí với WTP Advisory. Để lại thông tin, chuyên gia tư vấn chiến lược & quản trị doanh nghiệp SME sẽ liên hệ trong vòng 24 giờ làm việc.",
+  "sections": [
+    {
+      "type": "hero",
+      "variant": "page",
+      "eyebrow": "Liên hệ",
+      "headline": "Bắt đầu hành trình tăng trưởng bền vững",
+      "subheadline": "Buổi tư vấn chẩn đoán đầu tiên hoàn toàn miễn phí. Hãy cho chúng tôi biết thách thức lớn nhất của doanh nghiệp — chuyên gia WTP Advisory sẽ chỉ ra đúng việc cần ưu tiên."
+    },
+    {
+      "type": "contact",
+      "title": "Đặt lịch tư vấn miễn phí",
+      "intro": "Điền thông tin bên dưới. Chuyên gia WTP Advisory sẽ liên hệ trong vòng 24 giờ làm việc để xếp lịch buổi tư vấn chẩn đoán đầu tiên."
+    },
+    {
+      "type": "faq",
+      "eyebrow": "Trước khi liên hệ",
+      "title": "Một vài câu hỏi nhanh",
+      "items": [
+        { "q": "Buổi tư vấn đầu tiên diễn ra như thế nào?", "a": "Chúng tôi trao đổi 45–60 phút để hiểu bối cảnh, thách thức và mục tiêu của doanh nghiệp, sau đó phác thảo hướng đồng hành phù hợp. Buổi này miễn phí và không ràng buộc." },
+        { "q": "Doanh nghiệp của tôi quá nhỏ thì có phù hợp không?", "a": "WTP Advisory phục vụ doanh nghiệp SME ở nhiều giai đoạn. Nếu Anh/Chị mới bắt đầu chuẩn hóa quản trị, gói Safe Start được thiết kế đúng cho giai đoạn này." },
+        { "q": "Thông tin của tôi có được bảo mật không?", "a": "Có. Mọi thông tin Anh/Chị chia sẻ được bảo mật tuyệt đối và chỉ dùng cho mục đích tư vấn. WTP Advisory tuân thủ nguyên tắc bảo mật như một thành viên của WTP Group." }
+      ]
+    }
+  ]
+}

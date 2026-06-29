@@ -1,0 +1,63 @@
+{
+  "title": "Tư vấn Tài chính Doanh nghiệp",
+  "metaDescription": "Kiểm soát dòng tiền, lập ngân sách, dashboard tài chính, dự báo và sẵn sàng gọi vốn. WTP Advisory giúp CEO ra quyết định nhanh dựa trên số liệu thực.",
+  "sections": [
+    {
+      "type": "hero",
+      "variant": "page",
+      "eyebrow": "Tài chính",
+      "headline": "Doanh thu tăng — nhưng tiền có thực sự về túi?",
+      "subheadline": "WTP Advisory giúp doanh nghiệp nắm rõ sức khỏe tài chính thực tế, kiểm soát dòng tiền, lập ngân sách và dự báo kịch bản — để CEO chủ động thay vì bị động trước biến động.",
+      "primaryCta": { "label": "Đặt lịch tư vấn", "href": "/lien-he" },
+      "secondaryCta": { "label": "Xem tất cả dịch vụ", "href": "/dich-vu" }
+    },
+    {
+      "type": "feature-list",
+      "eyebrow": "Phạm vi công việc",
+      "title": "Quản trị tài chính bài bản cho SME",
+      "items": [
+        { "title": "Rà soát sức khỏe tài chính", "icon": "FileSearch", "description": "Phân tích BCTC, tỷ số tài chính (thanh khoản, đòn bẩy, sinh lời), đánh giá sức khỏe dòng tiền và xuất báo cáo." },
+        { "title": "Bảng điều khiển tài chính", "icon": "Gauge", "description": "Thiết kế và triển khai Financial Dashboard theo KPI doanh nghiệp, kết nối dữ liệu kế toán thực tế." },
+        { "title": "Kiểm soát dòng tiền", "icon": "PiggyBank", "description": "Lập kế hoạch dòng tiền rolling 3–6 tháng, xây quy trình phê duyệt chi và hệ thống cảnh báo sớm." },
+        { "title": "Ngân sách", "icon": "ClipboardCheck", "description": "Xây ngân sách năm theo phòng ban/dự án, thiết lập quy trình phê duyệt và báo cáo ngân sách." },
+        { "title": "Dự báo tài chính", "icon": "LineChart", "description": "Mô hình tài chính 3-statement, dự báo rolling 3–12 tháng, phân tích scenario (base/bull/bear)." },
+        { "title": "Thẩm định tài chính (DD)", "icon": "ShieldCheck", "description": "Chuẩn bị hồ sơ tài chính theo chuẩn Due Diligence quốc tế, rà soát điểm yếu, hỗ trợ trả lời nhà đầu tư." },
+        { "title": "Sẵn sàng gọi vốn", "icon": "Rocket", "description": "Chuẩn bị financial model, pitch deck tài chính, investor Q&A và tư vấn cấu trúc deal tối ưu." }
+      ]
+    },
+    {
+      "type": "package-matrix",
+      "eyebrow": "Theo gói dịch vụ",
+      "title": "Hạng mục có trong từng gói",
+      "rows": [
+        { "feature": "Rà soát sức khỏe tài chính", "safe": false, "growth": true, "scale": true },
+        { "feature": "Bảng điều khiển tài chính (Dashboard)", "safe": false, "growth": true, "scale": true },
+        { "feature": "Kiểm soát dòng tiền (Cash Flow)", "safe": false, "growth": true, "scale": true },
+        { "feature": "Ngân sách (Budget Planning)", "safe": false, "growth": true, "scale": true },
+        { "feature": "Dự báo tài chính (Forecast)", "safe": false, "growth": true, "scale": true },
+        { "feature": "Thẩm định tài chính (DD)", "safe": false, "growth": false, "scale": true },
+        { "feature": "Sẵn sàng gọi vốn (Capital Readiness)", "safe": false, "growth": false, "scale": true }
+      ]
+    },
+    {
+      "type": "deliverables",
+      "eyebrow": "Kết quả bàn giao",
+      "title": "Anh/Chị nhận được gì",
+      "items": [
+        "Báo cáo sức khỏe tài chính & dòng tiền",
+        "Financial Dashboard kết nối dữ liệu thực",
+        "Kế hoạch dòng tiền rolling 3–6 tháng",
+        "Ngân sách năm theo phòng ban/dự án",
+        "Mô hình tài chính 3-statement & dự báo scenario",
+        "Bộ hồ sơ tài chính sẵn sàng gọi vốn (gói Scale Up)"
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Không bao giờ bị thiếu tiền đột ngột",
+      "subtitle": "Đặt lịch để WTP Advisory rà soát sức khỏe tài chính doanh nghiệp của Anh/Chị.",
+      "primaryCta": { "label": "Đặt lịch tư vấn miễn phí", "href": "/lien-he" },
+      "secondaryCta": { "label": "Xem bảng giá", "href": "/bang-gia" }
+    }
+  ]
+}

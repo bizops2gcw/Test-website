@@ -1,0 +1,66 @@
+{
+  "title": "Tư vấn Chiến lược & Điều hành",
+  "metaDescription": "Chẩn đoán doanh nghiệp, kế hoạch hành động 90 ngày, Fractional COO và Văn phòng CEO. WTP Advisory đồng hành điều hành để CEO thoát khỏi vận hành, tập trung chiến lược.",
+  "sections": [
+    {
+      "type": "hero",
+      "variant": "page",
+      "eyebrow": "Chiến lược & Điều hành",
+      "headline": "Biến chiến lược thành hệ thống vận hành chạy được",
+      "subheadline": "WTP Advisory giúp CEO có bức tranh toàn diện về sức khỏe doanh nghiệp, một lộ trình hành động rõ ràng và một đối tác trực tiếp điều phối triển khai — để doanh nghiệp lớn hơn năng lực của một cá nhân.",
+      "primaryCta": { "label": "Đặt lịch tư vấn", "href": "/lien-he" },
+      "secondaryCta": { "label": "Xem tất cả dịch vụ", "href": "/dich-vu" }
+    },
+    {
+      "type": "feature-list",
+      "eyebrow": "Phạm vi công việc",
+      "title": "WTP Advisory làm gì cho doanh nghiệp của bạn",
+      "intro": "Từ chẩn đoán nền tảng đến vận hành Văn phòng CEO — tùy theo giai đoạn và gói dịch vụ.",
+      "items": [
+        { "title": "Chẩn đoán doanh nghiệp", "icon": "FileSearch", "description": "Phỏng vấn lãnh đạo, thu thập dữ liệu tài chính – vận hành, phân tích SWOT/5-Forces và xuất báo cáo chẩn đoán toàn diện." },
+        { "title": "Phân tích điểm nghẽn tăng trưởng", "icon": "Target", "description": "Phân tích chuỗi giá trị, xác định bottleneck về quy trình – con người – tài chính, ưu tiên đúng việc cần giải quyết." },
+        { "title": "Kế hoạch hành động 90 ngày", "icon": "ClipboardCheck", "description": "Thiết kế kế hoạch theo tuần, gán người chịu trách nhiệm, KPI đo lường và cơ chế review định kỳ." },
+        { "title": "Điều phối triển khai", "icon": "Workflow", "description": "WTP trực tiếp điều phối các phòng ban, theo dõi OKR/KPI, giải quyết vướng mắc và escalate kịp thời lên CEO." },
+        { "title": "Họp kinh doanh MBR/QBR", "icon": "Gauge", "description": "Tổ chức và dẫn dắt họp tháng/quý: chuẩn bị agenda, phân tích số liệu, ghi nhận quyết định và follow-up." },
+        { "title": "Văn phòng CEO & PMO", "icon": "Briefcase", "description": "Vận hành CEO Office và Project Management Office: lọc thông tin, chuẩn bị briefing, quản lý danh mục dự án chiến lược." },
+        { "title": "Chiến lược 3–5 năm", "icon": "Compass", "description": "Xây strategic roadmap: phân tích thị trường, định vị cạnh tranh, mục tiêu tài chính dài hạn và kịch bản tăng trưởng." }
+      ]
+    },
+    {
+      "type": "package-matrix",
+      "eyebrow": "Theo gói dịch vụ",
+      "title": "Hạng mục có trong từng gói",
+      "intro": "Vai trò WTP tăng dần: Cố vấn chiến lược (Safe Start) → Fractional COO (Growth Engine) → Văn phòng CEO (Scale Up).",
+      "rows": [
+        { "feature": "Chẩn đoán doanh nghiệp", "safe": true, "growth": true, "scale": true },
+        { "feature": "Phân tích điểm nghẽn tăng trưởng", "safe": true, "growth": true, "scale": true },
+        { "feature": "Kế hoạch hành động 90 ngày", "safe": true, "growth": true, "scale": true },
+        { "feature": "Điều phối triển khai (Execution)", "safe": false, "growth": true, "scale": true },
+        { "feature": "Họp kinh doanh định kỳ MBR/QBR", "safe": false, "growth": true, "scale": true },
+        { "feature": "PMO – Văn phòng quản lý dự án", "safe": false, "growth": false, "scale": true },
+        { "feature": "Văn phòng CEO (CEO Office)", "safe": false, "growth": false, "scale": true },
+        { "feature": "Chiến lược 3–5 năm", "safe": false, "growth": false, "scale": true }
+      ]
+    },
+    {
+      "type": "deliverables",
+      "eyebrow": "Kết quả bàn giao",
+      "title": "Anh/Chị nhận được gì",
+      "items": [
+        "Báo cáo chẩn đoán CEO toàn diện",
+        "Kế hoạch hành động 90 ngày với KPI & owner",
+        "Báo cáo tư vấn hàng tháng",
+        "Bảng KPI tổng thể (Integrated KPI Dashboard)",
+        "Lộ trình chuyển đổi 12–24 tháng",
+        "Chiến lược 3–5 năm (gói Scale Up)"
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Để CEO tập trung vào việc tạo giá trị cao nhất",
+      "subtitle": "Bắt đầu bằng buổi chẩn đoán miễn phí để biết doanh nghiệp đang ở đâu và cần ưu tiên gì.",
+      "primaryCta": { "label": "Đặt lịch chẩn đoán miễn phí", "href": "/lien-he" },
+      "secondaryCta": { "label": "Xem bảng giá", "href": "/bang-gia" }
+    }
+  ]
+}

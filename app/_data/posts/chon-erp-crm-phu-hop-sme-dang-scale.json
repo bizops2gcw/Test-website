@@ -1,0 +1,17 @@
+{
+  "slug": "chon-erp-crm-phu-hop-sme-dang-scale",
+  "title": "Chọn ERP/CRM phù hợp khi doanh nghiệp SME đang mở rộng quy mô",
+  "metaDescription": "Sai lầm phổ biến nhất khi triển khai ERP/CRM ở SME là chọn công cụ trước khi chuẩn hóa quy trình. Cách tiếp cận đúng giúp tránh lãng phí ngân sách công nghệ.",
+  "category": "Vận hành & Công nghệ",
+  "date": "2026-04-05",
+  "excerpt": "Nhiều SME triển khai ERP/CRM thất bại không phải vì công cụ kém, mà vì quy trình SOP chưa được chuẩn hóa trước khi số hóa.",
+  "relatedService": "dich-vu/van-hanh-cong-nghe",
+  "body": [
+    "Một sai lầm thường gặp là doanh nghiệp mua phần mềm ERP/CRM trước, sau đó mới cố gắng ép quy trình vận hành hiện tại vào phần mềm. Thứ tự đúng phải ngược lại: chuẩn hóa SOP và phân vai trò RACI rõ ràng trước, rồi mới chọn công cụ phù hợp với quy trình đó.",
+    "Trước khi chọn công cụ, doanh nghiệp cần xác định rõ bài toán cần giải: quản lý khách hàng và phễu bán hàng (CRM), hay quản lý nguồn lực, kho, tài chính tích hợp (ERP) — nhiều SME mua nhầm nhóm công cụ vì không phân tách rõ nhu cầu này.",
+    "Với SME có quy mô dưới 50 nhân sự, các công cụ CRM/ERP dạng SaaS (trả phí theo tháng, triển khai nhanh) thường phù hợp hơn các hệ thống ERP lớn cần đầu tư hạ tầng và đội ngũ IT riêng — tiêu chí lựa chọn nên ưu tiên tốc độ triển khai và khả năng mở rộng dần.",
+    "KPI vận hành (operational KPI) cần được thiết kế song song với việc triển khai công cụ: ví dụ tỷ lệ đơn hàng giao đúng hạn, thời gian xử lý yêu cầu khách hàng, tỷ lệ lỗi quy trình — nếu không có KPI, công cụ chỉ lưu trữ dữ liệu mà không tạo ra cải tiến thực sự.",
+    "Tự động hóa nên bắt đầu từ các quy trình lặp lại tần suất cao và ít ngoại lệ — như nhắc thanh toán, phân công lead bán hàng, báo cáo tồn kho — trước khi mở rộng sang các quy trình phức tạp hơn, để đội ngũ kịp thích nghi và đo lường được hiệu quả từng bước.",
+    "Giai đoạn triển khai 30-60 ngày đầu quyết định sự thành công lâu dài: cần có người chịu trách nhiệm đào tạo nội bộ, theo dõi tỷ lệ sử dụng thực tế của nhân sự, và sẵn sàng điều chỉnh SOP nếu công cụ cho thấy quy trình cũ có điểm chưa hợp lý."
+  ]
+}

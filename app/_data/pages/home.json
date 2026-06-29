@@ -1,0 +1,129 @@
+{
+  "title": "WTP Advisory — Tư vấn Chiến lược & Quản trị Doanh nghiệp SME",
+  "metaDescription": "WTP Advisory đồng hành cùng CEO doanh nghiệp SME Việt Nam: chuẩn hóa quản trị, tăng trưởng có hệ thống, sẵn sàng gọi vốn – M&A. Đặt lịch tư vấn chẩn đoán miễn phí.",
+  "sections": [
+    {
+      "type": "hero",
+      "variant": "home",
+      "eyebrow": "A member of WTP Group",
+      "headline": "Đối tác tư vấn chiến lược & vận hành cho doanh nghiệp của bạn",
+      "subheadline": "WTP Advisory đồng hành cùng CEO SME Việt Nam để chuẩn hóa nền tảng quản trị, tăng trưởng có hệ thống và sẵn sàng gọi vốn – M&A. Tư vấn đúng — Vận hành chuẩn — Tăng trưởng bền vững.",
+      "highlights": [
+        "Chẩn đoán doanh nghiệp toàn diện trong buổi đầu tiên",
+        "Kế hoạch hành động 90 ngày với KPI rõ ràng",
+        "Fractional COO trực tiếp điều phối triển khai",
+        "Hồ sơ sẵn sàng gọi vốn theo chuẩn nhà đầu tư"
+      ],
+      "primaryCta": { "label": "Đặt lịch tư vấn miễn phí", "href": "/lien-he" },
+      "secondaryCta": { "label": "Xem 8 nhóm dịch vụ", "href": "/dich-vu" }
+    },
+    {
+      "type": "stats",
+      "variant": "light",
+      "items": [
+        { "value": "8", "label": "Nhóm dịch vụ tư vấn chuyên sâu" },
+        { "value": "90", "label": "Ngày để có kết quả đầu tiên" },
+        { "value": "3", "label": "Gói linh hoạt theo giai đoạn" },
+        { "value": "5+", "label": "Lĩnh vực chuyên môn của Founder" }
+      ]
+    },
+    {
+      "type": "pain-points",
+      "eyebrow": "Vấn đề CEO thường gặp",
+      "title": "Doanh nghiệp tăng trưởng nhưng CEO ngày càng quá tải?",
+      "intro": "Phần lớn doanh nghiệp SME chững lại không phải vì thiếu cơ hội, mà vì nền tảng quản trị chưa theo kịp tốc độ tăng trưởng.",
+      "items": [
+        {
+          "title": "CEO sa vào vận hành",
+          "description": "Mọi quyết định đều phải qua CEO. Không có hệ thống, doanh nghiệp không thể lớn hơn năng lực của một người."
+        },
+        {
+          "title": "Tăng trưởng nhưng không có lãi",
+          "description": "Doanh thu tăng mà dòng tiền vẫn căng, không rõ tiền đi đâu, không kiểm soát được chi phí và rủi ro thuế."
+        },
+        {
+          "title": "Đội ngũ thiếu trách nhiệm rõ ràng",
+          "description": "Vai trò chồng chéo, KPI mơ hồ, phụ thuộc vài cá nhân chủ chốt — rủi ro lớn khi mở rộng."
+        },
+        {
+          "title": "Muốn gọi vốn nhưng chưa sẵn sàng",
+          "description": "Hồ sơ tài chính chưa chuẩn, chưa có chiến lược dài hạn, định giá thấp khi đàm phán với nhà đầu tư."
+        },
+        {
+          "title": "Quy trình phụ thuộc con người",
+          "description": "Không có SOP, nhân sự mới khó onboarding, chất lượng không nhất quán giữa các phòng ban."
+        },
+        {
+          "title": "Marketing & bán hàng thiếu hệ thống",
+          "description": "Chi tiền quảng cáo nhưng không đo được hiệu quả, phễu bán hàng rò rỉ, phụ thuộc may rủi."
+        }
+      ]
+    },
+    {
+      "type": "services-grid",
+      "eyebrow": "Dịch vụ",
+      "title": "8 nhóm dịch vụ tư vấn toàn diện",
+      "intro": "Từ chuẩn hóa nền tảng đến sẵn sàng M&A — WTP Advisory bao phủ toàn bộ hành trình quản trị doanh nghiệp. Nhấp vào từng nhóm để xem chi tiết."
+    },
+    {
+      "type": "process",
+      "eyebrow": "Cách chúng tôi làm việc",
+      "title": "Lộ trình tư vấn rõ ràng, có kết quả đo lường được",
+      "intro": "Không lý thuyết suông. Mỗi bước đều gắn với deliverable cụ thể và KPI mà CEO có thể theo dõi.",
+      "steps": [
+        {
+          "title": "Chẩn đoán",
+          "description": "Phỏng vấn lãnh đạo, thu thập dữ liệu tài chính – vận hành, phân tích SWOT/5-Forces, xuất Báo cáo chẩn đoán CEO."
+        },
+        {
+          "title": "Lập kế hoạch 90 ngày",
+          "description": "Thiết kế kế hoạch hành động theo tuần, gán người chịu trách nhiệm, KPI đo lường và cơ chế review."
+        },
+        {
+          "title": "Đồng hành thực thi",
+          "description": "WTP trực tiếp điều phối các phòng ban, theo dõi OKR/KPI, tổ chức họp MBR/QBR và xử lý vướng mắc."
+        },
+        {
+          "title": "Tăng trưởng & mở rộng",
+          "description": "Xây chiến lược 3–5 năm, chuẩn bị hồ sơ tài chính và data room sẵn sàng cho gọi vốn – M&A."
+        }
+      ]
+    },
+    {
+      "type": "packages",
+      "eyebrow": "Gói dịch vụ",
+      "title": "Chọn gói phù hợp giai đoạn phát triển",
+      "intro": "Ba gói linh hoạt theo mô hình Value-Based Pricing — doanh nghiệp có thể bắt đầu nhỏ và nâng cấp dần khi tăng trưởng.",
+      "note": "Có thể nâng cấp gói bất cứ lúc nào. Ưu đãi 5% khi ký hợp đồng 6 tháng, 10% khi ký 12 tháng."
+    },
+    {
+      "type": "testimonials",
+      "eyebrow": "Khách hàng nói gì",
+      "title": "Được tin tưởng bởi các CEO doanh nghiệp SME",
+      "items": [
+        {
+          "quote": "WTP Advisory giúp chúng tôi nhìn rõ điểm nghẽn dòng tiền chỉ sau buổi chẩn đoán đầu tiên. Kế hoạch 90 ngày rất cụ thể, đội ngũ làm theo được ngay.",
+          "author": "Anh Minh Tuấn",
+          "role": "CEO, Doanh nghiệp Thương mại"
+        },
+        {
+          "quote": "Vai trò Fractional COO của WTP giúp tôi rảnh tay khỏi vận hành để tập trung vào chiến lược. MBR hàng tháng giữ cả công ty đi đúng hướng.",
+          "author": "Chị Thu Hà",
+          "role": "Founder, Công ty Dịch vụ CNTT"
+        },
+        {
+          "quote": "Hồ sơ tài chính và data room do WTP chuẩn bị giúp vòng gọi vốn của chúng tôi nhanh hơn hẳn. Nhà đầu tư đánh giá cao sự chuyên nghiệp.",
+          "author": "Anh Đức Anh",
+          "role": "CEO, Doanh nghiệp Sản xuất"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Bắt đầu bằng một buổi tư vấn chẩn đoán miễn phí",
+      "subtitle": "Để lại thông tin, chuyên gia WTP Advisory sẽ liên hệ trong vòng 24 giờ làm việc để xếp lịch.",
+      "primaryCta": { "label": "Đặt lịch ngay", "href": "/lien-he" },
+      "secondaryCta": { "label": "Tìm hiểu về WTP Advisory", "href": "/gioi-thieu" }
+    }
+  ]
+}

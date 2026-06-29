@@ -1,0 +1,60 @@
+{
+  "title": "Tư vấn M&A & Gọi vốn",
+  "metaDescription": "Đánh giá sẵn sàng đầu tư, thiết lập data room, định giá doanh nghiệp và hỗ trợ nhà đầu tư cho hành trình gọi vốn – M&A. WTP Advisory đồng hành cùng CEO.",
+  "sections": [
+    {
+      "type": "hero",
+      "variant": "page",
+      "eyebrow": "M&A & Gọi vốn",
+      "headline": "Sẵn sàng gặp nhà đầu tư — với hồ sơ chuyên nghiệp",
+      "subheadline": "WTP Advisory chuẩn bị doanh nghiệp toàn diện cho gọi vốn và M&A: đánh giá sẵn sàng đầu tư, định giá, data room chuẩn quốc tế và đồng hành đàm phán cùng nhà đầu tư.",
+      "primaryCta": { "label": "Đặt lịch tư vấn", "href": "/lien-he" },
+      "secondaryCta": { "label": "Xem tất cả dịch vụ", "href": "/dich-vu" }
+    },
+    {
+      "type": "feature-list",
+      "eyebrow": "Phạm vi công việc",
+      "title": "Đồng hành toàn bộ hành trình gọi vốn – M&A",
+      "items": [
+        { "title": "Sẵn sàng đầu tư", "icon": "ClipboardCheck", "description": "Đánh giá Investment Readiness theo bộ tiêu chí quốc tế, lập kế hoạch khắc phục điểm yếu theo ưu tiên." },
+        { "title": "Phòng dữ liệu (Data Room)", "icon": "FileSearch", "description": "Thiết kế cấu trúc data room chuẩn quốc tế, thu thập và tổ chức tài liệu pháp lý, tài chính, vận hành." },
+        { "title": "Định giá doanh nghiệp", "icon": "LineChart", "description": "Xây mô hình định giá: DCF, Comparable Company Analysis (CCA), Precedent Transactions (PT)." },
+        { "title": "Sẵn sàng M&A", "icon": "ShieldCheck", "description": "Rà soát pháp lý, tài chính, vận hành, nhân sự; lập kế hoạch tái cơ cấu trước M&A và chuẩn bị VDR." },
+        { "title": "Hỗ trợ nhà đầu tư", "icon": "Handshake", "description": "Chuẩn bị pitch, quản lý Q&A với nhà đầu tư, đàm phán term sheet và các điều khoản giao dịch." }
+      ]
+    },
+    {
+      "type": "package-matrix",
+      "eyebrow": "Theo gói dịch vụ",
+      "title": "Hạng mục có trong từng gói",
+      "intro": "Nhóm dịch vụ M&A & Gọi vốn được thiết kế chuyên sâu cho gói Scale Up — giai đoạn doanh nghiệp sẵn sàng mở rộng.",
+      "rows": [
+        { "feature": "Đánh giá sẵn sàng đầu tư", "safe": false, "growth": false, "scale": true },
+        { "feature": "Thiết lập Data Room", "safe": false, "growth": false, "scale": true },
+        { "feature": "Định giá doanh nghiệp (Valuation)", "safe": false, "growth": false, "scale": true },
+        { "feature": "Sẵn sàng M&A (M&A Readiness)", "safe": false, "growth": false, "scale": true },
+        { "feature": "Hỗ trợ nhà đầu tư (Investor Relations)", "safe": false, "growth": false, "scale": true }
+      ]
+    },
+    {
+      "type": "deliverables",
+      "eyebrow": "Kết quả bàn giao",
+      "title": "Bộ hồ sơ đầu tư hoàn chỉnh",
+      "items": [
+        "Báo cáo đánh giá Investment Readiness",
+        "Data Room chuẩn quốc tế",
+        "Mô hình định giá doanh nghiệp (DCF/CCA/PT)",
+        "Pitch Deck & Financial Model",
+        "One-Pager & Management Q&A",
+        "Kế hoạch tái cơ cấu trước M&A"
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Tăng tỷ lệ thành công cho vòng gọi vốn của bạn",
+      "subtitle": "Đặt lịch để WTP Advisory đánh giá mức độ sẵn sàng đầu tư của doanh nghiệp Anh/Chị.",
+      "primaryCta": { "label": "Đặt lịch tư vấn miễn phí", "href": "/lien-he" },
+      "secondaryCta": { "label": "Xem bảng giá", "href": "/bang-gia" }
+    }
+  ]
+}

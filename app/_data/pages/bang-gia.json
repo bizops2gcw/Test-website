@@ -1,0 +1,55 @@
+{
+  "title": "Bảng giá Dịch vụ Tư vấn",
+  "metaDescription": "Bảng giá 3 gói dịch vụ WTP Advisory: Safe Start, Growth Engine, Scale Up. Khung giá minh bạch theo ngành Dịch vụ/CNTT, Thương mại, Sản xuất. Ưu đãi hợp đồng dài hạn.",
+  "sections": [
+    {
+      "type": "hero",
+      "variant": "page",
+      "eyebrow": "Bảng giá",
+      "headline": "Đầu tư vào quản trị — chi phí rõ ràng, giá trị đo được",
+      "subheadline": "WTP Advisory định giá theo giá trị (Value-Based Pricing): mức phí phản ánh ROI mà doanh nghiệp nhận được, không chỉ là số giờ tư vấn. Ba gói linh hoạt theo giai đoạn phát triển.",
+      "primaryCta": { "label": "Nhận tư vấn chọn gói", "href": "/lien-he" }
+    },
+    {
+      "type": "packages",
+      "eyebrow": "3 gói dịch vụ",
+      "title": "Safe Start · Growth Engine · Scale Up",
+      "intro": "Doanh nghiệp chọn gói phù hợp giai đoạn và có thể nâng cấp dần. Tất cả 8 nhóm dịch vụ được tổ chức trong ba gói này.",
+      "note": "Vai trò WTP tăng dần theo gói: từ Cố vấn chiến lược đến Fractional COO và Văn phòng CEO."
+    },
+    {
+      "type": "pricing-table",
+      "title": "Khung giá đề xuất theo ngành",
+      "intro": "Mức phí điều chỉnh theo đặc thù từng ngành về độ phức tạp, rủi ro và tiềm năng tăng trưởng."
+    },
+    {
+      "type": "feature-list",
+      "eyebrow": "Triết lý định giá",
+      "title": "Vì sao mức phí WTP Advisory xứng đáng",
+      "columns": 2,
+      "items": [
+        { "title": "Phí dựa trên giá trị", "icon": "LineChart", "description": "Giá phản ánh giá trị ROI mà WTP Advisory tạo ra, không chỉ tính theo số giờ tư vấn." },
+        { "title": "Điều chỉnh theo ngành", "icon": "Building2", "description": "Mỗi ngành có đặc thù riêng về độ phức tạp, rủi ro và tiềm năng — mức phí được cá nhân hóa." },
+        { "title": "Gói linh hoạt (Modular)", "icon": "Workflow", "description": "Doanh nghiệp chọn gói phù hợp giai đoạn phát triển và có thể nâng cấp dần theo nhu cầu." },
+        { "title": "Ưu đãi cam kết dài hạn", "icon": "Handshake", "description": "Ưu đãi 5% khi ký hợp đồng 6 tháng và 10% khi ký 12 tháng — đồng hành càng lâu, giá trị càng lớn." }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "Câu hỏi thường gặp",
+      "title": "Thắc mắc về chi phí & cam kết",
+      "items": [
+        { "q": "Mức phí trên đã bao gồm VAT chưa?", "a": "Các mức giá trong khung là giá chưa bao gồm VAT (VNĐ/tháng). Báo giá chính thức sẽ được lập riêng sau buổi chẩn đoán, dựa trên quy mô và phạm vi công việc thực tế của doanh nghiệp." },
+        { "q": "Tôi có thể bắt đầu với gói nhỏ rồi nâng cấp không?", "a": "Hoàn toàn được. Nhiều doanh nghiệp bắt đầu với gói Safe Start để chuẩn hóa nền tảng, sau đó nâng lên Growth Engine hoặc Scale Up khi cần WTP đồng hành thực thi sâu hơn." },
+        { "q": "Buổi tư vấn đầu tiên có mất phí không?", "a": "Buổi tư vấn chẩn đoán đầu tiên là miễn phí. Chúng tôi sẽ trao đổi về thách thức của doanh nghiệp và đề xuất hướng đồng hành phù hợp trước khi Anh/Chị quyết định." },
+        { "q": "WTP Advisory cam kết kết quả như thế nào?", "a": "Mỗi gói đi kèm deliverable cụ thể và KPI đo lường được. Chúng tôi báo cáo tiến độ định kỳ và điều chỉnh dựa trên dữ liệu thực tế — cam kết kết quả là một trong bốn giá trị cốt lõi của WTP." }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Nhận báo giá chính xác cho doanh nghiệp của bạn",
+      "subtitle": "Mỗi doanh nghiệp một bối cảnh riêng. Đặt lịch để WTP Advisory tư vấn gói và mức phí phù hợp nhất.",
+      "primaryCta": { "label": "Đặt lịch tư vấn miễn phí", "href": "/lien-he" }
+    }
+  ]
+}
